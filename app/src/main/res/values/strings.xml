@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">HebrewProject</string>
+
+    <string-array name="build">
+        <item>קל</item>
+        <item>פיעל</item>
+        <item>פועל</item>
+        <item>נפעל</item>
+        <item>הפעיל</item>
+        <item>הופעל</item>
+        <item>התפעל</item>
+    </string-array>
+
+    <string-array name="body">
+        <item>מדבר</item>
+        <item>מדברים</item>
+        <item>נוכח</item>
+        <item>נוכחת</item>
+        <item>נוכחים</item>
+        <item>נוכחות</item>
+        <item>נסתר</item>
+        <item>נסתרת</item>
+        <item>נסתרים</item>
+        <item>נסתרות</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>עבר</item>
+        <item>הווה</item>
+        <item>עתיד</item>
+        <item>ציווי</item>
+    </string-array>
+
+    <string-array name="gizra">
+        <item>שלמים</item>
+        <item>מרובעים</item>
+        <item>חפנ</item>
+        <item>חפיצ</item>
+        <item>נלא</item>
+        <item>נלי\ה</item>
+        <item>נפא</item>
+        <item>גרוניות</item>
+        <item>נפיו</item>
+        <item>נעוי</item>
+        <item>עע</item>
+    </string-array>
+
+</resources>

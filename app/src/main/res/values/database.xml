@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="v1">
+        <item>ש.מ.ט</item>
+        <item>נפעל</item>
+        <item>נסתרות</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v2">
+        <item>ס.פ.ח</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v3">
+        <item>מ.ס.ר</item>
+        <item>נפעל</item>
+        <item>נסתרת</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v4">
+        <item>ד.ל.ק</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v5">
+        <item>ח.ד.ש</item>
+        <item>התפעל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v6">
+        <item>א.ל.פ</item>
+        <item>פיעל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v7">
+        <item>א.מ.צ</item>
+        <item>פועל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v8">
+        <item>כ.ת.ר</item>
+        <item>הופעל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v9">
+        <item>ק.ד.ש</item>
+        <item>הופעל</item>
+        <item>נסתר</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v10">
+        <item>ש.מ.ט</item>
+        <item>הפעיל</item>
+        <item>מדבר</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v11">
+        <item>ש.כ.נ</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v12">
+        <item>ג.ד.ל</item>
+        <item>קל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v13">
+        <item>ח.ז.ק</item>
+        <item>פיעל</item>
+        <item>מדברים</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v14">
+        <item>ח.כ.מ</item>
+        <item>התפעל</item>
+        <item>נוכחות</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v15">
+        <item>ר.ט.ב</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v16">
+        <item>ק.ב.צ</item>
+        <item>פועל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v17">
+        <item>ס.כ.מ</item>
+        <item>הפעיל</item>
+        <item>מדבר</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v18">
+        <item>ב.ד.ל</item>
+        <item>נפעל</item>
+        <item>נוכחות</item>
+        <item>עתיד</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v19">
+        <item>נ.ג.נ</item>
+        <item>פיעל</item>
+        <item>מדבר</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v20">
+        <item>ד.ח.ק</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+</resources>
