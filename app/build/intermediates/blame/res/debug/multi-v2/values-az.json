@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\HebrewProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\values-az\\values-az.xml",

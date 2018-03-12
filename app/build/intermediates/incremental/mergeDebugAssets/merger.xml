@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\HebrewProject\app\src\main\assets"/><source path="E:\HebrewProject\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\HebrewProject\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Lior\Desktop\git\HebrewProject\app\src\main\assets"/><source path="C:\Users\Lior\Desktop\git\HebrewProject\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Lior\Desktop\git\HebrewProject\app\src\debug\assets"/></dataSet></merger>

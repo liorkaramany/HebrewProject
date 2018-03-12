@@ -9,6 +9,7 @@
         <item>הפעיל</item>
         <item>הופעל</item>
         <item>התפעל</item>
+        <item>אין</item>
     </string-array>
 
     <string-array name="body">
@@ -22,6 +23,7 @@
         <item>נסתרת</item>
         <item>נסתרים</item>
         <item>נסתרות</item>
+        <item>אין</item>
     </string-array>
 
     <string-array name="time">
