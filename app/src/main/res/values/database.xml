@@ -161,4 +161,182 @@
         <item>שלמים</item>
     </string-array>
 
+    <string-array name="v21">
+        <item>א.ח.ס.נ</item>
+        <item>התפעל</item>
+        <item>מדברים</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+    <string-array name="v22">
+        <item>א.פ.ש.ר</item>
+        <item>פיעל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v23">
+        <item>א.פ.י.נ</item>
+        <item>פועל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v24">
+        <item>א.ק.ל.מ</item>
+        <item>התפעל</item>
+        <item>נוכחת</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v25">
+        <item>ש.פ.ש.פ</item>
+        <item>פיעל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v26">
+        <item>א.ו.ר.ר</item>
+        <item>פועל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v27">
+        <item>א.ש.פ.ז</item>
+        <item>פועל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v28">
+        <item>ב.ז.ב.ז</item>
+        <item>פיעל</item>
+        <item>נוכחים</item>
+        <item>עתיד</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v29">
+        <item>ג.ל.ג.ל</item>
+        <item>פיעל</item>
+        <item>מדברים</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v30">
+        <item>ה.פ.נ.ט</item>
+        <item>פיעל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v31">
+        <item>ד.ל.ד.ל</item>
+        <item>התפעל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v32">
+        <item>ת.ר.ג.מ</item>
+        <item>פועל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v33">
+        <item>ת.מ.צ.ת</item>
+        <item>פיעל</item>
+        <item>מדברת</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v34">
+        <item>ח.ש.ב.נ</item>
+        <item>התפעל</item>
+        <item>נוכחים</item>
+        <item>עתיד</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v35">
+        <item>ל.כ.ס.נ</item>
+        <item>פועל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v36">
+        <item>ש.ע.ב.ד</item>
+        <item>התפעל</item>
+        <item>נוכחים</item>
+        <item>עתיד</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v37">
+        <item>נ.מ.נ.מ</item>
+        <item>פיעל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v38">
+        <item>ע.נ.י.נ</item>
+        <item>פיעל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v39">
+        <item>פ.ר.ס.מ</item>
+        <item>פועל</item>
+        <item>נסתרים</item>
+        <item>עתיד</item>
+        <item>מרובעים</item>
+    </string-array>
+
+
+    <string-array name="v40">
+        <item>פ.ר.נ.ס</item>
+        <item>פיעל</item>
+        <item>נוכח</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
 </resources>
