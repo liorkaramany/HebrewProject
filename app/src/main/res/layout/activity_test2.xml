@@ -31,30 +31,31 @@
         android:layout_height="50dp" />
 
     <RadioGroup
+        android:id="@+id/rg"
         android:layout_width="match_parent"
         android:orientation="horizontal"
         android:layout_height="wrap_content" >
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/o3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="הלחם בסיסים" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/o2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="בסיס + צורן סופי" />
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/o1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton" />
+            android:text="שורש + משקל" />
     </RadioGroup>
 
     <Space

@@ -21,7 +21,7 @@ public class Test1 extends AppCompatActivity {
 
     float points;
     int round;
-    int dif, topic, subject;
+    int topic, subject;
     ImageView img;
     EditText root;
     Spinner build, body, time, gizra;
@@ -58,7 +58,6 @@ public class Test1 extends AppCompatActivity {
         btn=(Button) findViewById(R.id.btn);
 
         Intent gt=getIntent();
-        dif=gt.getIntExtra("dif", 1);
         topic=gt.getIntExtra("topic", 1);
         subject=gt.getIntExtra("subject", 1);
 
@@ -83,14 +82,11 @@ public class Test1 extends AppCompatActivity {
 
         int n1=1, n2=1;
 
-        if (subject==1)
+        switch (topic)
         {
-            switch (topic)
-            {
-                case 1: n1=1; n2=65; break;
-                case 2: n1=41; n2=60; break;
-                case 3: n1=61; n2=80; break;
-            }
+            case 1: n1=1; n2=65; break;
+            case 2: n1=41; n2=60; break;
+            case 3: n1=61; n2=80; break;
         }
 
         n=(rnd.nextInt(n2-n1+1)+1);
@@ -146,7 +142,7 @@ public class Test1 extends AppCompatActivity {
                 Intent t = null;
                 if (round == 20)
                     t = new Intent(this, Results.class);
-                else if (topic >= 4)
+                else if (subject >= 4)
                     switch (rnd.nextInt(3)) {
                         case 0:
                             t = new Intent(this, Test1.class);
@@ -165,7 +161,6 @@ public class Test1 extends AppCompatActivity {
 
                 t.putExtra("points", points);
                 t.putExtra("round", round);
-                t.putExtra("dif", dif);
                 t.putExtra("topic", topic);
                 t.putExtra("subject", subject);
 

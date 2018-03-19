@@ -52,7 +52,7 @@ public class Menu extends AppCompatActivity {
 
     public void toDifficulity(int topic)
     {
-        Intent t = new Intent(this, Difficulity.class);
+        Intent t = new Intent(this, Test1.class);
         t.putExtra("topic", topic);
         t.putExtra("setMenu", setMenu);
         startActivity(t);

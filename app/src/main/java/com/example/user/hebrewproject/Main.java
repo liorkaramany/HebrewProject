@@ -63,7 +63,8 @@ public class Main extends AppCompatActivity {
 
     public void nouns(View view) {
         setMenu = 2;
-        toMenu();
+        Intent t=new Intent(this, Test2.class);
+        startActivity(t);
     }
 
     public void verbs(View view) {
