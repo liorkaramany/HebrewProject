@@ -2159,6 +2159,30 @@
         <item>נפיו</item>
         <item>נעוי</item>
         <item>עע</item>
+    </string-array><string-array name="meanings">
+        <item>אין</item>
+        <item>בעל מקצוע</item>
+        <item>בעלת מקצוע</item>
+        <item>בעל תכונה</item>
+        <item>בעלת תכונה</item>
+        <item>מכשירים וכלים</item>
+        <item>מחלות</item>
+        <item>מקומות</item>
+        <item>שם מופשט</item>
+        <item>שם פעולה</item>
+        <item>מצב</item>
+        <item>כתבי עת</item>
+        <item>הקטנה</item>
+        <item>אוספים</item>
+        <item>תור וסדר</item>
+        <item>חלקי לבוש</item>
+        <item>שם תואר</item>
+        <item>מוצא זכר</item>
+        <item>מוצא נקבה</item>
+        <item>פרטי מזון</item>
+        <item>כלי תחבורה</item>
+        <item>שפות</item>
+        <item>מקצועות</item>
     </string-array></file><file path="C:\Users\Lior\Desktop\git\HebrewProject\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>

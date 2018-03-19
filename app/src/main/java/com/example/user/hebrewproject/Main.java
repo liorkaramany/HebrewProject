@@ -64,6 +64,7 @@ public class Main extends AppCompatActivity {
     public void nouns(View view) {
         setMenu = 2;
         Intent t=new Intent(this, Test2.class);
+        t.putExtra("subject", 2);
         startActivity(t);
     }
 
