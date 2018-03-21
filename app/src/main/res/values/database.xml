@@ -719,4 +719,64 @@
         <item>שם פעולה</item>
     </string-array>
 
+    <string-array name="n31">
+        <item>מ.צ.א</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n32">
+        <item>ש.ת.י\ה</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n33">
+        <item>צ.מ.א</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n34">
+        <item>ש.נ.י\ה</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n35">
+        <item>ש.ע.י\ה</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n36">
+        <item>ב.ר.א</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n37">
+        <item>ר.א.י\ה</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n38">
+        <item>כ.ל.א</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n39">
+        <item>ר.צ.י\ה</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n40">
+        <item>ב.ט.א</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
 </resources>

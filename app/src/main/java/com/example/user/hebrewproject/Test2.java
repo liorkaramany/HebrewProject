@@ -60,9 +60,9 @@ public class Test2 extends AppCompatActivity {
         int n1=1, n2=1;
 
         if (subject==4)
-            n2=rnd.nextInt(140)+1;
+            n2=140;
         else
-            n2=rnd.nextInt(20)+1;
+            n2=40;
 
         n=(rnd.nextInt(n2-n1+1)+1);
 
