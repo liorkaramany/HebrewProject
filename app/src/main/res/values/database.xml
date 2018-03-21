@@ -659,4 +659,64 @@
         <item>שם פעולה</item>
     </string-array>
 
+    <string-array name="n21">
+        <item>נ.ש.ג</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n22">
+        <item>נ.צ.ל</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n23">
+        <item>נ.ש.ק</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n24">
+        <item>נ.ת.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n25">
+        <item>י.צ.ג</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n26">
+        <item>י.צ.ע</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n27">
+        <item>נ.צ.ל</item>
+        <item>1</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n28">
+        <item>נ.ש.ג</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n29">
+        <item>י.צ.ג</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n30">
+        <item>נ.ג.ד</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
 </resources>
