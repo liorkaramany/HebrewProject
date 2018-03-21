@@ -60,12 +60,14 @@ public class Test2 extends AppCompatActivity {
 
         if (subject==4)
             n2=rnd.nextInt(140)+1;
+        else
+            n2=rnd.nextInt(10)+1;
 
         n=(rnd.nextInt(n2-n1+1)+1);
 
         //Generates a random picture and displays it.
         Resources res = getResources();
-        String mDrawableName = "i"+n;
+        String mDrawableName = "n"+n;
         int resID = res.getIdentifier(mDrawableName , "drawable", getPackageName());
         img.setImageResource(resID);
     }
@@ -98,13 +100,13 @@ public class Test2 extends AppCompatActivity {
                 if (noun[2].equals(meanings.getSelectedItem()))
                     points += 1/3.0;
 
+                root.setText(""+noun[0]);
+
                 rg.clearCheck();
                 options[Integer.parseInt(noun[1])-1].setChecked(true);
 
                 answer.setText(""+noun[2]);
-
-                root.setText(""+noun[0]);
-
+                
                 btn.setText("הבא");
             }
         }

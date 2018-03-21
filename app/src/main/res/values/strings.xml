@@ -53,24 +53,24 @@
         <item>בעלת מקצוע</item>
         <item>בעל תכונה</item>
         <item>בעלת תכונה</item>
-        <item>מכשירים וכלים</item>
-        <item>מחלות</item>
-        <item>מקומות</item>
+        <item>מכשיר או כלי</item>
+        <item>מחלה</item>
+        <item>מקום</item>
         <item>שם מופשט</item>
         <item>שם פעולה</item>
         <item>מצב</item>
-        <item>כתבי עת</item>
+        <item>כתב עת</item>
         <item>הקטנה</item>
-        <item>אוספים</item>
+        <item>אוסף</item>
         <item>תור וסדר</item>
-        <item>חלקי לבוש</item>
+        <item>חלק לבוש</item>
         <item>שם תואר</item>
         <item>מוצא זכר</item>
         <item>מוצא נקבה</item>
-        <item>פרטי מזון</item>
+        <item>פרט מזון</item>
         <item>כלי תחבורה</item>
-        <item>שפות</item>
-        <item>מקצועות</item>
+        <item>שפה</item>
+        <item>מקצוע</item>
     </string-array>
 
 </resources>
