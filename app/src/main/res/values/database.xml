@@ -726,7 +726,7 @@
     </string-array>
 
     <string-array name="n32">
-        <item>ש.ת.י\ה</item>
+        <item>ש.ת.יה</item>
         <item>1</item>
         <item>שם פעולה</item>
     </string-array>
@@ -738,13 +738,13 @@
     </string-array>
 
     <string-array name="n34">
-        <item>ש.נ.י\ה</item>
+        <item>ש.נ.יה</item>
         <item>1</item>
         <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n35">
-        <item>ש.ע.י\ה</item>
+        <item>ש.ע.יה</item>
         <item>1</item>
         <item>שם פעולה</item>
     </string-array>
@@ -768,7 +768,7 @@
     </string-array>
 
     <string-array name="n39">
-        <item>ר.צ.י\ה</item>
+        <item>ר.צ.יה</item>
         <item>1</item>
         <item>שם פעולה</item>
     </string-array>
@@ -777,6 +777,66 @@
         <item>ב.ט.א</item>
         <item>1</item>
         <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n41">
+        <item>ע.ב.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n42">
+        <item>ת.א.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n43">
+        <item>ג.ר.ש</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n44">
+        <item>א.מ.ר</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n45">
+        <item>ה.ר.ס</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n46">
+        <item>א.ג.ר</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n47">
+        <item>פ.ר.ע</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n48">
+        <item>ע.ר.כ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n49">
+        <item>ק.ר.ב</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n50">
+        <item>ח.פ.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
     </string-array>
 
 </resources>

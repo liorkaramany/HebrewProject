@@ -64,7 +64,7 @@ public class Test2 extends AppCompatActivity {
         else
             n2=40;
 
-        n=(rnd.nextInt(n2-n1+1)+1);
+        n=(rnd.nextInt(n2-n1+1)+n1);
 
         //Generates a random picture and displays it.
         Resources res = getResources();

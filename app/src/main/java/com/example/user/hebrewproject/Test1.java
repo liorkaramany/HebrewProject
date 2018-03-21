@@ -92,7 +92,7 @@ public class Test1 extends AppCompatActivity {
                 case 3: n1=61; n2=80; break;
             }
 
-        n=(rnd.nextInt(n2-n1+1)+1);
+        n=(rnd.nextInt(n2-n1+1)+n1);
 
         //Generates a random picture and displays it.
         Resources res = getResources();
