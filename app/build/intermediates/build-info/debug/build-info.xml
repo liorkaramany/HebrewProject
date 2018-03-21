@@ -5,28 +5,49 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.0.1"
-    timestamp="1521647736493"
+    timestamp="1521648655257"
     token="412260422308973417"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="426" />
+        duration="1233" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="32" />
+        duration="97" />
     <task
         name="verifier"
-        duration="7" />
+        duration="131" />
 
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
     <artifact
         location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -71,12 +92,33 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1521647736493"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1521648655257"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

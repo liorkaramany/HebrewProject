@@ -22,7 +22,7 @@ public class Test2 extends AppCompatActivity {
     EditText root;
     ImageView img;
     Spinner meanings;
-    TextView answer;
+    TextView answer, rans;
     ArrayAdapter<CharSequence> ameaning;
     RadioGroup rg;
     RadioButton[] options=new RadioButton[3];
@@ -44,6 +44,7 @@ public class Test2 extends AppCompatActivity {
         img=(ImageView) findViewById(R.id.img);
         btn=(Button) findViewById(R.id.btn);
         answer=(TextView) findViewById(R.id.answer);
+        rans=(TextView) findViewById(R.id.rans);
         root=(EditText) findViewById(R.id.root);
 
         meanings=(Spinner) findViewById(R.id.meanings);
@@ -61,7 +62,7 @@ public class Test2 extends AppCompatActivity {
         if (subject==4)
             n2=rnd.nextInt(140)+1;
         else
-            n2=rnd.nextInt(10)+1;
+            n2=rnd.nextInt(20)+1;
 
         n=(rnd.nextInt(n2-n1+1)+1);
 
@@ -100,7 +101,7 @@ public class Test2 extends AppCompatActivity {
                 if (noun[2].equals(meanings.getSelectedItem()))
                     points += 1/3.0;
 
-                root.setText(""+noun[0]);
+                rans.setText(""+noun[0]);
 
                 rg.clearCheck();
                 options[Integer.parseInt(noun[1])-1].setChecked(true);

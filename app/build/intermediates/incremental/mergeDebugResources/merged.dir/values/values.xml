@@ -71,10 +71,60 @@
         <item>1</item>
         <item>בעל מקצוע</item>
     </string-array>
+    <string-array name="n11">
+        <item>א.כ.ל.ס</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n12">
+        <item>צ.ל.צ.ל</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n13">
+        <item>א.ר.ג.נ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n14">
+        <item>ס.ק.ר.נ</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+    <string-array name="n15">
+        <item>מ.ר.מ.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n16">
+        <item>פ.ר.נ.ס</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n17">
+        <item>ב.ל.ב.ל</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n18">
+        <item>צ.נ.ז.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+    <string-array name="n19">
+        <item>א.ר.ג.נ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
     <string-array name="n2">
         <item>נ.ז.ר</item>
         <item>1</item>
         <item>מקום</item>
+    </string-array>
+    <string-array name="n20">
+        <item>א.ב.ח.נ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
     </string-array>
     <string-array name="n3">
         <item>ג.ד.ל</item>

@@ -600,63 +600,63 @@
     </string-array>
 
     <string-array name="n11">
-        <item>א.מ.נ</item>
+        <item>א.כ.ל.ס</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n12">
-        <item>א.מ.נ</item>
+        <item>צ.ל.צ.ל</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n13">
-        <item>א.מ.נ</item>
+        <item>א.ר.ג.נ</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n14">
-        <item>א.מ.נ</item>
+        <item>ס.ק.ר.נ</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>בעל תכונה</item>
     </string-array>
 
     <string-array name="n15">
-        <item>א.מ.נ</item>
+        <item>מ.ר.מ.ר</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n16">
-        <item>א.מ.נ</item>
+        <item>פ.ר.נ.ס</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n17">
-        <item>א.מ.נ</item>
+        <item>ב.ל.ב.ל</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n18">
-        <item>א.מ.נ</item>
+        <item>צ.נ.ז.ר</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n19">
-        <item>א.מ.נ</item>
+        <item>א.ר.ג.נ</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="n20">
-        <item>א.מ.נ</item>
+        <item>א.ב.ח.נ</item>
         <item>1</item>
-        <item>בעל מקצוע</item>
+        <item>שם פעולה</item>
     </string-array>
 
 </resources>
