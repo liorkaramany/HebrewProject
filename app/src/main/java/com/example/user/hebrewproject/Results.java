@@ -12,7 +12,7 @@ import java.util.Random;
 public class Results extends AppCompatActivity {
 
     TextView grade, message;
-    int dif, topic, subject;
+    int topic, subject;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,14 +45,13 @@ public class Results extends AppCompatActivity {
 
     public void again(View view) {
         Intent gt=getIntent();
-        dif=gt.getIntExtra("dif", 1);
         topic=gt.getIntExtra("topic", 1);
         subject=gt.getIntExtra("subject", 1);
 
         Random rnd=new Random();
 
         Intent t=null;
-        if (topic>=4)
+        if (subject>=4)
             switch (rnd.nextInt(3)) {
                 case 0:
                     t = new Intent(this, Test1.class);
@@ -64,14 +63,13 @@ public class Results extends AppCompatActivity {
                     t = new Intent(this, Test3.class);
                     break;
             }
-        else if (topic==1)
+        else if (subject==1)
             t = new Intent(this, Test1.class);
-        else if (topic==2)
+        else if (subject==2)
             t = new Intent(this, Test2.class);
         else
             t = new Intent(this, Test3.class);
 
-        t.putExtra("dif", dif);
         t.putExtra("topic", topic);
         t.putExtra("subject", subject);
         startActivity(t);
