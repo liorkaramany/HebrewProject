@@ -839,4 +839,64 @@
         <item>שם פעולה</item>
     </string-array>
 
+    <string-array name="n51">
+        <item>ד.ו.נ</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n52">
+        <item>כ.ו.נ</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n53">
+        <item>ל.ו.נ</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n54">
+        <item>ש.ו.ט</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n55">
+        <item>ק.ו.מ</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n56">
+        <item>צ.ו.ד</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n57">
+        <item>פ.ר.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n58">
+        <item>א.ט.ט</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n59">
+        <item>ח.נ.נ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n60">
+        <item>ב.ו.כ</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
 </resources>

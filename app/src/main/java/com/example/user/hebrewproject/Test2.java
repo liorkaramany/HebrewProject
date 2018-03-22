@@ -62,7 +62,7 @@ public class Test2 extends AppCompatActivity {
         if (subject==4)
             n2=140;
         else
-            n2=40;
+            n2=60;
 
         n=(rnd.nextInt(n2-n1+1)+n1);
 
