@@ -899,4 +899,298 @@
         <item>מקום</item>
     </string-array>
 
+    <string-array name="n61">
+        <item></item>
+        <item>2</item>
+        <item>כתב עת</item>
+    </string-array>
+
+    <string-array name="n62">
+        <item>ז.כ.ר</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n63">
+        <item></item>
+        <item>2</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n64">
+        <item>נ.פ.ח</item>
+        <item>1</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n65">
+        <item>ש.ק.ר</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n66">
+        <item></item>
+        <item>2</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n67">
+        <item></item>
+        <item>2</item>
+        <item>כתב עת</item>
+    </string-array>
+
+    <string-array name="n68">
+        <item></item>
+        <item>2</item>
+        <item>כתב עת</item>
+    </string-array>
+
+    <string-array name="n69">
+        <item>ש.ג.ע</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n70">
+        <item></item>
+        <item>2</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n71">
+        <item>ז.ב.נ</item>
+        <item>1</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n72">
+        <item></item>
+        <item>2</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n73">
+        <item>ש.פ.ט</item>
+        <item>1</item>
+        <item>בעל מקצוע</item>
+    </string-array>
+
+    <string-array name="n74">
+        <item>ש.ק.ד</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n75">
+        <item>ס.ג.ד</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n76">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n77">
+        <item></item>
+        <item>2</item>
+        <item>מקצוע</item>
+    </string-array>
+
+    <string-array name="n78">
+        <item></item>
+        <item>2</item>
+        <item>חלק לבוש</item>
+    </string-array>
+
+    <string-array name="n79">
+        <item></item>
+        <item>2</item>
+        <item>מקצוע</item>
+    </string-array>
+
+    <string-array name="n80">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n81">
+        <item></item>
+        <item>2</item>
+        <item>חלק לבוש</item>
+    </string-array>
+
+    <string-array name="n82">
+        <item></item>
+        <item>2</item>
+        <item>הקטנה</item>
+    </string-array>
+
+    <string-array name="n83">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n84">
+        <item>י.ש.ב</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n85">
+        <item>ת.פ.ר</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n86">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n87">
+        <item>נ.ז.ר</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n88">
+        <item>ש.ק.פ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n89">
+        <item></item>
+        <item>2</item>
+        <item>שם תואר</item>
+    </string-array>
+
+    <string-array name="n90">
+        <item></item>
+        <item>2</item>
+        <item>שם תואר</item>
+    </string-array>
+
+    <string-array name="n91">
+        <item></item>
+        <item>2</item>
+        <item>שם תואר</item>
+    </string-array>
+
+    <string-array name="n92">
+        <item></item>
+        <item>2</item>
+        <item>כלי תחבורה</item>
+    </string-array>
+
+    <string-array name="n93">
+        <item>ג.ל.יה</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n94">
+        <item></item>
+        <item>2</item>
+        <item>הקטנה</item>
+    </string-array>
+
+    <string-array name="n95">
+        <item></item>
+        <item>2</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n96">
+        <item>ר.צ.יה</item>
+        <item>1</item>
+        <item>שם מופשט</item>
+    </string-array>
+
+    <string-array name="n97">
+        <item></item>
+        <item>2</item>
+        <item>הקטנה</item>
+    </string-array>
+
+    <string-array name="n98">
+        <item>צ.ר.פ</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n99">
+        <item></item>
+        <item>2</item>
+        <item>הקטנה</item>
+    </string-array>
+
+    <string-array name="n100">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n101">
+        <item>ב.ל.ט</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n102">
+        <item></item>
+        <item>2</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n103">
+        <item></item>
+        <item>2</item>
+        <item>אוסף</item>
+    </string-array>
+
+    <string-array name="n104">
+        <item></item>
+        <item>3</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n105">
+        <item>ת.ח.ת</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n106">
+        <item>ר.ג.ל</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n107">
+        <item>ס.ר.ט</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n108">
+        <item></item>
+        <item>3</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n109">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
 </resources>

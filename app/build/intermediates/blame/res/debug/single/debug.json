@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n51.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n51.png"
+    },
+    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i28.png.flat",
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i28.png"
     },
@@ -72,16 +76,16 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i37.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i37.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i37.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i37.png"
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -92,16 +96,16 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -112,12 +116,12 @@
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n3.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n37.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n37.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n37.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n37.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -160,12 +164,12 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -220,20 +224,20 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n44.png.flat",
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n44.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -248,12 +252,12 @@
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n5.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n19.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n19.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n19.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n19.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -332,12 +336,12 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i17.png.flat",
@@ -360,6 +364,10 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n55.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n55.png"
+    },
+    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -368,24 +376,24 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dbf28f782275b10db47a79fbeb84ac5f\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i33.png.flat",
-        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i33.png"
-    },
-    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\de10d424d5481eaf70d200e0856e95a5\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i33.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i33.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n10.png.flat",
@@ -572,6 +580,10 @@
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n21.png"
     },
     {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n58.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n58.png"
+    },
+    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credits.xml.flat",
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\layout\\activity_credits.xml"
     },
@@ -602,6 +614,10 @@
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i14.png.flat",
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\i14.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n59.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n59.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
@@ -722,6 +738,10 @@
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n31.png.flat",
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n31.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n57.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n57.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -936,6 +956,10 @@
         "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n60.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n60.png"
+    },
+    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
@@ -1086,6 +1110,10 @@
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n52.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n52.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
@@ -1296,6 +1324,10 @@
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n54.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n54.png"
+    },
+    {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1442,6 +1474,10 @@
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\de10d424d5481eaf70d200e0856e95a5\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n56.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n56.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
@@ -2018,6 +2054,10 @@
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
         "source": "C:\\Users\\Lior\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c425a168716f560d68c37b7c4ec6fd3e\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_n53.png.flat",
+        "source": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\src\\main\\res\\drawable\\n53.png"
     },
     {
         "merged": "C:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
