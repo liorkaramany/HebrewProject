@@ -82,13 +82,15 @@ public class Main extends AppCompatActivity {
             case 1: t=new Intent(this, Test2.class); break;
             case 2: t=new Intent(this, Test3.class); break;
         }
-        t.putExtra("subject", 3);
+        t.putExtra("subject", 4);
         startActivity(t);
     }
 
     public void number(View view) {
         setMenu = 3;
-        toDifficulity();
+        Intent t=new Intent(this, Test3.class);
+        t.putExtra("subject", 3);
+        startActivity(t);
     }
 
     public void bagruts(View view) {

@@ -145,7 +145,7 @@ public class Test1 extends AppCompatActivity {
                 Intent t = null;
                 if (round == 20)
                     t = new Intent(this, Results.class);
-                else if (subject >= 3)
+                else if (subject >= 4)
                     switch (rnd.nextInt(3)) {
                         case 0:
                             t = new Intent(this, Test1.class);
