@@ -75,7 +75,15 @@ public class Main extends AppCompatActivity {
 
     public void mixed(View view) {
         setMenu = 4;
-        toDifficulity();
+        Intent t=null;
+        switch ((int)Math.floor(Math.random()*3))
+        {
+            case 0: t=new Intent(this, Test1.class); break;
+            case 1: t=new Intent(this, Test2.class); break;
+            case 2: t=new Intent(this, Test3.class); break;
+        }
+        t.putExtra("subject", 3);
+        startActivity(t);
     }
 
     public void number(View view) {
