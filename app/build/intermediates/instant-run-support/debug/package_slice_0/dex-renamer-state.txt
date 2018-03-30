@@ -1,4 +1,4 @@
-#Fri Mar 30 09:19:54 IDT 2018
+#Fri Mar 30 10:01:52 IDT 2018
 base.0=C\:\\Users\\Lior\\Desktop\\git\\HebrewProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex
