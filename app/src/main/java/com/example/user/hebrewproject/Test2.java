@@ -60,7 +60,7 @@ public class Test2 extends AppCompatActivity {
         int n1=1, n2=1;
 
         if (subject==4)
-            n2=140;
+            n2=109;
         else
             n2=109;
 
@@ -116,7 +116,7 @@ public class Test2 extends AppCompatActivity {
             Intent t = null;
             if (round == 20)
                 t = new Intent(this, Results.class);
-            else if (subject >= 4)
+            else if (subject >= 3)
                 switch (rnd.nextInt(3)) {
                     case 0:
                         t = new Intent(this, Test1.class);

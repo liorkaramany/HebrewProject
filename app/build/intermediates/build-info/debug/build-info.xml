@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1522426139436"
+    timestamp="1522426375004"
     token="412260422308973417"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="383" />
+        duration="498" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="43" />
+        duration="41" />
     <task
         name="verifier"
-        duration="10" />
+        duration="20" />
 
     <artifact
         location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -72,7 +72,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1522426139436"
+        timestamp="1522426375004"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Lior\Desktop\git\HebrewProject\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
