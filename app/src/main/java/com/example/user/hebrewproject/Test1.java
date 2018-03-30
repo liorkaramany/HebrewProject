@@ -83,12 +83,12 @@ public class Test1 extends AppCompatActivity {
         int n1=1, n2=1;
 
         if (subject==4)
-            n2=rnd.nextInt(140)+1;
+            n2=rnd.nextInt(115)+1;
         else
             switch (topic)
             {
                 case 1: n1=1; n2=65; break;
-                case 2: n1=41; n2=60; break;
+                case 2: n1=66; n2=115; break;
                 case 3: n1=61; n2=80; break;
             }
 

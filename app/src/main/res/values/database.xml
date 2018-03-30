@@ -858,6 +858,86 @@
         <item>נליה</item>
     </string-array>
 
+    <string-array name="v106">
+        <item>א.מ.ר</item>
+        <item>קל</item>
+        <item>נוכח</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v107">
+        <item>א.כ.ל</item>
+        <item>קל</item>
+        <item>מדבר</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v108">
+        <item>א.ה.ב</item>
+        <item>קל</item>
+        <item>נוכח</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v109">
+        <item>א.פ.ה</item>
+        <item>קל</item>
+        <item>נוכח</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v110">
+        <item>א.ב.ד</item>
+        <item>קל</item>
+        <item>נסתרים</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v111">
+        <item>א.ח.ז</item>
+        <item>קל</item>
+        <item>נוכח</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v112">
+        <item>א.ב.ה</item>
+        <item>קל</item>
+        <item>נוכח</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v113">
+        <item>א.ה.ב</item>
+        <item>קל</item>
+        <item>מדבר</item>
+        <item>הווה</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v114">
+        <item>א.מ.ר</item>
+        <item>קל</item>
+        <item>נסתרות</item>
+        <item>עתיד</item>
+        <item>נפא</item>
+    </string-array>
+
+    <string-array name="v115">
+        <item>א.ח.ז</item>
+        <item>קל</item>
+        <item>נסתרת</item>
+        <item>הווה</item>
+        <item>נפא</item>
+    </string-array>
+
 
 
     <string-array name="n1">
