@@ -1344,6 +1344,237 @@
         <item>נפיו</item>
     </string-array>
 
+    <string-array name="v167">
+        <item>ד.ו.נ</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v168">
+        <item>ח.ו.ש</item>
+        <item>קל</item>
+        <item>מדבר</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v169">
+        <item>ל.ו.נ</item>
+        <item>הפעיל</item>
+        <item>מדבר</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v171">
+        <item>ד.ו.ש</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v170">
+        <item>ב.ו.נ</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v172">
+        <item>ר.י.ב</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v173">
+        <item>כ.ו.נ</item>
+        <item>הפעיל</item>
+        <item>מדברים</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v174">
+        <item>ש.ו.ט</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>עתיד</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v175">
+        <item>נ.ו.פ</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v176">
+        <item>ב.ו.ס</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v177">
+        <item>ס.ו.ג</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v178">
+        <item>ע.ו.ר</item>
+        <item>נפעל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v179">
+        <item>א.ו.ר</item>
+        <item>הפעיל</item>
+        <item>מדברים</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v180">
+        <item>ש.י.ר</item>
+        <item>קל</item>
+        <item>נוכחת</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v181">
+        <item>כ.ו.נ</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v182">
+        <item>ל.ו.ש</item>
+        <item>נפעל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v183">
+        <item>צ.ו.פ</item>
+        <item>קל</item>
+        <item>נסתר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v184">
+        <item>ד.ו.נ</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>עתיד</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v185">
+        <item>ב.ו.א</item>
+        <item>קל</item>
+        <item>נסתרת</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v186">
+        <item>מ.ו.ת</item>
+        <item>קל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v187">
+        <item>ח.ו.ש</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v188">
+        <item>כ.ו.נ</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v189">
+        <item>ש.ו.ב</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v190">
+        <item>ע.י.ד</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פועל</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v191">
+        <item>מ.ו.ג</item>
+        <item>נפעל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v192">
+        <item>ע.ו.פ</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v193">
+        <item>ר.ו.ם</item>
+        <item>הפעיל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v194">
+        <item>ב.ו.נ</item>
+        <item>קל</item>
+        <item>נוכחים</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v195">
+        <item>ש.ו.ב</item>
+        <item>הפעיל</item>
+        <item>נוכחות</item>
+        <item>ציווי</item>
+        <item>נעיו</item>
+    </string-array>
 
 
 
