@@ -2776,4 +2776,74 @@
         <item>בעל תכונה</item>
     </string-array>
 
+    <string name="m1">ששת אלפים חמש מאות ארבעים וחמישה</string>
+
+    <string name="m2">ארבעה קילוגרמים תפוחים וחצי</string>
+
+    <string name="m3">חמישה עשר</string>
+
+    <string name="m4">חמישה עשר, חמישה</string>
+
+    <string name="m5">חמש</string>
+
+    <string name="m6">שלושת</string>
+
+    <string name="m7">תשע עשרה</string>
+
+    <string name="m8">ארבעה עשר, אלף תשע מאות ארבעים ושמונה</string>
+
+    <string name="m9">אלף תשע מאות תשעים ותשע</string>
+
+    <string name="m10">שני שליש</string>
+
+    <string name="m11">שלושה רבעים</string>
+
+    <string name="m12">שלושים ושישה</string>
+
+    <string name="m13">ארבעה</string>
+
+    <string name="m14">חמש שישיות</string>
+
+    <string name="m15">שישה</string>
+
+    <string name="m16">חמש</string>
+
+    <string name="m17">שמונה עשרה, עשרים נקודה שבעים</string>
+
+    <string name="m18">שלושים ואחד</string>
+
+    <string name="m19">שנים עשר</string>
+
+    <string name="m20">אלפיים ושמונה, מיליון מאתיים עשרים וארבע אלף תשע מאות</string>
+
+    <string name="m21">עשרים וחמישה אלף ארבע מאות שבעים ושמונה</string>
+
+    <string name="m22">עשרים ושבע</string>
+
+    <string name="m23">שלוש, תשע עשרה</string>
+
+    <string name="m24">חמש, שלוש עשרה</string>
+
+    <string name="m25">שבעה עשר</string>
+
+    <string name="m26">שמונה</string>
+
+    <string name="m27">אחד עשר</string>
+
+    <string name="m28">חמישה חדרים וחצי</string>
+
+    <string name="m29">שלושים ושתים, שמונה</string>
+
+    <string name="m30">ארבעה, מיליון שמונה מאות שבעים ושש אלף חמש מאות שבעים ושישה</string>
+
+    <string name="m31">שבע מאות תשעים ושלוש, ששת אלפים עשרים ואחת</string>
+
+    <string name="m32">אחת עשרה</string>
+
+    <string name="m33">שישה מיליון</string>
+
+    <string name="m34">חמישה, שישה שקלים וחצי</string>
+
+    <string name="m35">ארבע מאות שמונים וחמישה</string>
+
 </resources>
