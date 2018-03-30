@@ -28,7 +28,7 @@ public class Menu extends AppCompatActivity {
         {
             btn1.setText("שלמים, מרובעים, חפ\"נ, חפי\"ץ");
             btn2.setText("נל\"א, נל\"י/ה, נפ\"א");
-            btn3.setText("נפי\"ו, נעו\"י, גרוניות, ע\"ע");
+            btn3.setText("נפי\"ו, נעי\"ו, גרוניות, ע\"ע");
         }
         else
         {

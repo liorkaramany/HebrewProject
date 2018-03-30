@@ -89,7 +89,7 @@ public class Test1 extends AppCompatActivity {
             {
                 case 1: n1=1; n2=65; break;
                 case 2: n1=66; n2=115; break;
-                case 3: n1=61; n2=80; break;
+                case 3: n1=116; n2=80; break;
             }
 
         n=(rnd.nextInt(n2-n1+1)+n1);
