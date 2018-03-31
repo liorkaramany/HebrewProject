@@ -1,6 +1,8 @@
 package com.example.user.hebrewproject;
 
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -118,12 +120,32 @@ public class Main extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item)
     {
         String st=item.getTitle().toString();
-        Intent t;
-        if (st.equals("קרדיטים"))
-            t = new Intent(this, Credits.class);
-        else
-            t = new Intent(this, Login.class);
-        startActivity(t);
+        if (st.equals("קרדיטים")) {
+            Intent t = new Intent(this, Credits.class);
+            startActivity(t);
+        }
+        else {
+            final Intent t = new Intent(this, Login.class);
+
+            AlertDialog.Builder adb=new AlertDialog.Builder(this);
+            adb.setTitle("אזהרה");
+            adb.setMessage("האם את\\ה בטוח\\ה שברצונך לשנות את שמך?");
+            adb.setPositiveButton("כן", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    startActivity(t);
+                }
+            });
+            adb.setNegativeButton("לא", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    dialog.cancel();
+                }
+            });
+
+            AlertDialog ad=adb.create();
+            ad.show();
+        }
         return true;
     }
 
