@@ -32,6 +32,7 @@
         <activity android:name="com.example.user.hebrewproject.Test3" />
         <activity android:name="com.example.user.hebrewproject.Results" />
         <activity android:name="com.example.user.hebrewproject.Login" />
+        <activity android:name="com.example.user.hebrewproject.Guide" />
 
         <meta-data
             android:name="android.support.VERSION"
