@@ -9,6 +9,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Spinner;
@@ -30,6 +31,7 @@ public class Test2 extends AppCompatActivity {
     float points;
     int n;
     Button btn;
+    LinearLayout bg;
     Random rnd=new Random();
 
     @Override
@@ -46,6 +48,7 @@ public class Test2 extends AppCompatActivity {
         answer=(TextView) findViewById(R.id.answer);
         rans=(TextView) findViewById(R.id.rans);
         root=(EditText) findViewById(R.id.root);
+        bg=(LinearLayout) findViewById(R.id.bg);
 
         meanings=(Spinner) findViewById(R.id.meanings);
         ameaning=ArrayAdapter.createFromResource(this, R.array.meanings, android.R.layout.simple_spinner_item);
@@ -54,7 +57,7 @@ public class Test2 extends AppCompatActivity {
 
         Intent gt=getIntent();
         subject=gt.getIntExtra("subject", 2);
-        round=gt.getIntExtra("round", 0);
+        round=gt.getIntExtra("round", 1);
         points=gt.getFloatExtra("points", 0);
 
         int n1=1, n2=1;
@@ -63,6 +66,7 @@ public class Test2 extends AppCompatActivity {
         {
             n1 = 110;
             n2 = 146;
+            bg.setBackgroundResource(R.drawable.b3);
         }
         else
             n2=109;

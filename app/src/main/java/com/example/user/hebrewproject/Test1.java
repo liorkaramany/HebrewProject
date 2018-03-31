@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -30,6 +31,8 @@ public class Test1 extends AppCompatActivity {
     ArrayAdapter<CharSequence> atime;
     ArrayAdapter<CharSequence> agizra;
 
+    LinearLayout bg;
+
     TextView a0, a1, a2, a3, a4;
     Button btn;
 
@@ -48,6 +51,7 @@ public class Test1 extends AppCompatActivity {
         time = (Spinner) findViewById(R.id.time);
         gizra = (Spinner) findViewById(R.id.gizra);
         root=(EditText) findViewById(R.id.root);
+        bg=(LinearLayout) findViewById(R.id.bg);
 
         a0=(TextView) findViewById(R.id.a0);
         a1=(TextView) findViewById(R.id.a1);
@@ -88,6 +92,7 @@ public class Test1 extends AppCompatActivity {
         {
             n1=264;
             n2=301;
+            bg.setBackgroundResource(R.drawable.b3);
         }
         else
             switch (topic)

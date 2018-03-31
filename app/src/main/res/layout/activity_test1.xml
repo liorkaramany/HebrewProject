@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@drawable/b2"
+    android:id="@+id/bg"
     tools:context="com.example.user.hebrewproject.Test1">
 
     <Space
@@ -166,7 +168,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        android:layout_height="150dp" />
 
     <Button
         android:id="@+id/btn"
@@ -178,7 +180,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="150dp" />
+        android:layout_height="30dp" />
 
 
 </LinearLayout>

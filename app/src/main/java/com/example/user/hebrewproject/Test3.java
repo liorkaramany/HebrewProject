@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -20,6 +21,7 @@ public class Test3 extends AppCompatActivity {
     EditText word;
     ImageView img;
     Button btn;
+    LinearLayout bg;
 
     float points;
     int round;
@@ -36,9 +38,10 @@ public class Test3 extends AppCompatActivity {
         word = (EditText) findViewById(R.id.word);
         img = (ImageView) findViewById(R.id.img);
         btn = (Button) findViewById(R.id.btn);
+        bg=(LinearLayout) findViewById(R.id.bg);
 
         Intent gt = getIntent();
-        subject = gt.getIntExtra("subject", 1);
+        subject = gt.getIntExtra("subject", 3);
         points = gt.getFloatExtra("points", 0);
         round = gt.getIntExtra("round", 1);
 
@@ -48,6 +51,7 @@ public class Test3 extends AppCompatActivity {
         {
             n1=69;
             n2 = 121;
+            bg.setBackgroundResource(R.drawable.b3);
         }
         else
             n2=68;

@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@drawable/b2"
+    android:id="@+id/bg"
     tools:context="com.example.user.hebrewproject.Test2">
 
     <ImageView
@@ -121,7 +123,8 @@
 
     <Button
         android:id="@+id/btn"
-        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="next"
         android:text="שלח" />
