@@ -59,8 +59,11 @@ public class Test2 extends AppCompatActivity {
 
         int n1=1, n2=1;
 
-        if (subject==4)
-            n2=109;
+        if (subject==5)
+        {
+            n1 = 110;
+            n2 = 146;
+        }
         else
             n2=109;
 

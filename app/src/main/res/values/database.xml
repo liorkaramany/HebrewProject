@@ -3081,6 +3081,231 @@
         <item>בעל תכונה</item>
     </string-array>
 
+
+    <string-array name="n110">
+        <item>ס.ב.ס.ב</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n111">
+        <item></item>
+        <item>2</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n112">
+        <item></item>
+        <item>3</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n113">
+        <item></item>
+        <item>2</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n114">
+        <item>ש.ח.ג</item>
+        <item>1</item>
+        <item>אין</item>
+    </string-array>
+
+    <string-array name="n115">
+        <item>ס.ב.ב</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n116">
+        <item>מ.ח.ש.ב</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n117">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n118">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n119">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n120">
+        <item>מ.ה.ר</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n121">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n122">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n123">
+        <item>ש.ת.פ</item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n124">
+        <item>נ.ג.ב</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n125">
+        <item>מ.ת.נ</item>
+        <item>1</item>
+        <item>מחלה</item>
+    </string-array>
+
+    <string-array name="n126">
+        <item>כ.ס.פ</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n127">
+        <item>ח.צ.ל</item>
+        <item>2</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n128">
+        <item>י.צ.ק</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n129">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n130">
+        <item>ר.כ.ב</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n131">
+        <item>ע.מ.ק</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n132">
+        <item>ר.צ.יה</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n133">
+        <item>יו.ע.ל</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n134">
+        <item></item>
+        <item>2</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n135">
+        <item>ש.כ.ל</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n136">
+        <item>ה.ר.ס</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n137">
+        <item>כ.פ.יה</item>
+        <item>1</item>
+        <item>בעל תכונה</item>
+    </string-array>
+
+    <string-array name="n138">
+        <item></item>
+        <item>2</item>
+        <item>הקטנה</item>
+    </string-array>
+
+    <string-array name="n139">
+        <item>נ.צ.ח</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n140">
+        <item>ע.מ.ת</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n141">
+        <item>ת.ג.ר</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n142">
+        <item>ס.ל.ל</item>
+        <item>1</item>
+        <item>מקום</item>
+    </string-array>
+
+    <string-array name="n143">
+        <item></item>
+        <item>2</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n144">
+        <item>א.ו.צ</item>
+        <item>1</item>
+        <item>שם פעולה</item>
+    </string-array>
+
+    <string-array name="n145">
+        <item>ל.ח.צ</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+    <string-array name="n146">
+        <item>מ.נ.יה</item>
+        <item>1</item>
+        <item>מכשיר או כלי</item>
+    </string-array>
+
+
+
     <string name="m1">ששת אלפים חמש מאות ארבעים וחמישה</string>
 
     <string name="m2">ארבעה קילוגרמים תפוחים וחצי</string>
@@ -3139,7 +3364,7 @@
 
     <string name="m29">שלושים ושתים, שמונה</string>
 
-    <string name="m30">ארבעה, מיליון שמונה מאות שבעים ושש אלף חמש מאות שבעים ושישה</string>
+    <string name="m30">ארבעה, מיליון שמונה מאות שבעים ושישה אלף חמש מאות שבעים ושישה</string>
 
     <string name="m31">שבע מאות תשעים ושלוש, ששת אלפים עשרים ואחת</string>
 
@@ -3216,6 +3441,112 @@
     <string name="m67">בלעדיהם</string>
 
     <string name="m68">על ידם</string>
+
+    <string name="m75">ארבע</string>
+
+    <string name="m69">חמישים וחמש, אחד עשר</string>
+
+    <string name="m70">אלפיים ואחת, ארבעה עשר אלף</string>
+
+    <string name="m71">ארבעה</string>
+
+    <string name="m72">חמישה עשר</string>
+
+    <string name="m73">חמש עשרה</string>
+
+    <string name="m74">חמש מאות ושבעה</string>
+
+    <string name="m76">חמישה עשר</string>
+
+    <string name="m77">תשעה עשר</string>
+
+    <string name="m78">חמישה עשר אלף</string>
+
+    <string name="m79">אחד עשר אלף</string>
+
+    <string name="m80">ארבעים ושניים אלף שש מאות חמישים</string>
+
+    <string name="m81">שבעה עשר אלף שלוש מאות חמישים וחמישה</string>
+
+    <string name="m82">שבעה עשר אלף מאה ארבעים ושישה</string>
+
+    <string name="m83">שמונה עשרה</string>
+
+    <string name="m84">שלוש עשרה</string>
+
+    <string name="m85">אתכם</string>
+
+    <string name="m86">עשרה</string>
+
+    <string name="m87">חמישה</string>
+
+    <string name="m88">ארבע מאות שמונים ותשעה</string>
+
+    <string name="m89">שלוש מאות וששת אלפים</string>
+
+    <string name="m90">אחד, עשר</string>
+
+    <string name="m91">ארבעה עשר</string>
+
+    <string name="m92">חמישה</string>
+
+    <string name="m93">אחת עשרה</string>
+
+    <string name="m94">ארבעה</string>
+
+    <string name="m95">שישים ושבעה</string>
+
+    <string name="m96">אצלם</string>
+
+    <string name="m97">אלף חמש מאות חמישים ושבעה, אלף שבעים וחמש</string>
+
+    <string name="m98">ארבעה, מאה ושניים</string>
+
+    <string name="m99">עשרת אלפים</string>
+
+    <string name="m100">מכם</string>
+
+    <string name="m101">אתכם</string>
+
+    <string name="m102">אצלם</string>
+
+    <string name="m103">בלעדיו</string>
+
+    <string name="m104">בעקבותיה</string>
+
+    <string name="m105">בשבילם</string>
+
+    <string name="m106">למענם</string>
+
+    <string name="m107">בעדו</string>
+
+    <string name="m108">מהם</string>
+
+    <string name="m109">כלפיהם</string>
+
+    <string name="m110">אתכם</string>
+
+    <string name="m111">לקראת</string>
+
+    <string name="m112">בהם</string>
+
+    <string name="m113">אצלם</string>
+
+    <string name="m114">בלעדיו</string>
+
+    <string name="m115">בגלל</string>
+
+    <string name="m116">בעקבותיה</string>
+
+    <string name="m117">בזכותו</string>
+
+    <string name="m118">בשבילם</string>
+
+    <string name="m119">בעבורם</string>
+
+    <string name="m120">בלעדיהם</string>
+
+    <string name="m121">ב</string>
 
 
 

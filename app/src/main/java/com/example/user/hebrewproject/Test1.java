@@ -82,8 +82,13 @@ public class Test1 extends AppCompatActivity {
 
         int n1=1, n2=1;
 
-        if (subject==4 || subject==3)
+        if (subject==4)
             n2=263;
+        else if (subject==5)
+        {
+            n1=264;
+            n2=301;
+        }
         else
             switch (topic)
             {

@@ -32,20 +32,23 @@ public class Test3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test3);
 
-        answer=(TextView) findViewById(R.id.answer);
-        word=(EditText) findViewById(R.id.word);
-        img=(ImageView) findViewById(R.id.img);
-        btn=(Button) findViewById(R.id.btn);
+        answer = (TextView) findViewById(R.id.answer);
+        word = (EditText) findViewById(R.id.word);
+        img = (ImageView) findViewById(R.id.img);
+        btn = (Button) findViewById(R.id.btn);
 
-        Intent gt=getIntent();
-        subject=gt.getIntExtra("subject", 1);
-        points=gt.getFloatExtra("points", 0);
-        round=gt.getIntExtra("round", 1);
+        Intent gt = getIntent();
+        subject = gt.getIntExtra("subject", 1);
+        points = gt.getFloatExtra("points", 0);
+        round = gt.getIntExtra("round", 1);
 
-        int n1=1, n2=1;
+        int n1 = 1, n2 = 1;
 
-        if (subject==4)
-            n2=68;
+        if (subject == 5)
+        {
+            n1=69;
+            n2 = 121;
+        }
         else
             n2=68;
 
