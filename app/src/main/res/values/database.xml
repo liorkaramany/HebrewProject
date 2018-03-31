@@ -2121,6 +2121,311 @@
     </string-array>
 
 
+    <string-array name="v264">
+        <item>נ.ח.יה</item>
+        <item>הפעיל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v265">
+        <item>ד.ו.נ</item>
+        <item>נפעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v266">
+        <item>פ.ל.יה</item>
+        <item>הופעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v267">
+        <item>יו.ד.ע</item>
+        <item>נפעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נפיו</item>
+    </string-array>
+
+    <string-array name="v268">
+        <item>א.ט.ט</item>
+        <item>הפעיל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>עע</item>
+    </string-array>
+
+    <string-array name="v269">
+        <item>ס.ב.ב</item>
+        <item>התפעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>עע</item>
+    </string-array>
+
+    <string-array name="v270">
+        <item>כ.ו.נ</item>
+        <item>הופעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v271">
+        <item>ש.נ.יה</item>
+        <item>התפעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v272">
+        <item>צ.ו.פ</item>
+        <item>הופעל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v273">
+        <item>כ.ו.נ</item>
+        <item>נפעל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v274">
+        <item>ר.א.יה</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פועל</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v275">
+        <item>נ.ב.ע</item>
+        <item>קל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>חפנ</item>
+    </string-array>
+
+    <string-array name="v276">
+        <item>ע.ו.ר</item>
+        <item>פיעל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v277">
+        <item>ג.נ.נ</item>
+        <item>פיעל</item>
+        <item>אין</item>
+        <item>שם פועל</item>
+        <item>עע</item>
+    </string-array>
+
+    <string-array name="v278">
+        <item>ע.ר.יה</item>
+        <item>פועל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v279">
+        <item>יו.ר.ש</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פועל</item>
+        <item>נפיו</item>
+    </string-array>
+
+    <string-array name="v280">
+        <item>נ.ת.ר</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>חפנ</item>
+    </string-array>
+
+    <string-array name="v281">
+        <item>ס.ו.ד</item>
+        <item>התפעל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v282">
+        <item>ק.י.מ</item>
+        <item>פיעל</item>
+        <item>נסתרת</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v283">
+        <item>צ.ד.ק</item>
+        <item>התפעל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v284">
+        <item>ע.ד.ר</item>
+        <item>נפעל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v285">
+        <item>ש.ו.יה</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>נליה</item>
+    </string-array>
+
+    <string-array name="v286">
+        <item>ה.ד.פ</item>
+        <item>קל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v287">
+        <item>יו.ד.ע</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>נפיו</item>
+    </string-array>
+
+    <string-array name="v288">
+        <item>ב.ו.נ</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v289">
+        <item>מ.ד.ד</item>
+        <item>התפעל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>עע</item>
+    </string-array>
+
+    <string-array name="v290">
+        <item>ש.ת.ת</item>
+        <item>הופעל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>עע</item>
+    </string-array>
+
+    <string-array name="v291">
+        <item>ת.ג.מ.ל</item>
+        <item>פיעל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>מרובעים</item>
+    </string-array>
+
+    <string-array name="v292">
+        <item>ע.ר.ב</item>
+        <item>פועל</item>
+        <item>נקבה</item>
+        <item>הווה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v293">
+        <item>יו.כ.ח</item>
+        <item>הפעיל</item>
+        <item>אין</item>
+        <item>שם פועל</item>
+        <item>נפיו</item>
+    </string-array>
+
+    <string-array name="v294">
+        <item>ה.ל.מ</item>
+        <item>קל</item>
+        <item>אין</item>
+        <item>שם פעולה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v295">
+        <item>כ.מ.ה</item>
+        <item>קל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v296">
+        <item>ח.ו.ס</item>
+        <item>קל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v297">
+        <item>ט.ו.ב</item>
+        <item>הפעיל</item>
+        <item>זכר</item>
+        <item>הווה</item>
+        <item>נעיו</item>
+    </string-array>
+
+    <string-array name="v298">
+        <item>א.ב.ס</item>
+        <item>הפעיל</item>
+        <item>נסתר</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v299">
+        <item>יו.ת.ר</item>
+        <item>הפעיל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>נפיו</item>
+    </string-array>
+
+    <string-array name="v300">
+        <item>ג.ר.ש</item>
+        <item>פועל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>שלמים</item>
+    </string-array>
+
+    <string-array name="v301">
+        <item>ח.ו.יה</item>
+        <item>קל</item>
+        <item>נסתרים</item>
+        <item>עבר</item>
+        <item>נליה</item>
+    </string-array>
+
+
 
     <string-array name="n1">
         <item>ד.ר.כ</item>

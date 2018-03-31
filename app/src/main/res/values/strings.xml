@@ -23,6 +23,8 @@
         <item>נסתרת</item>
         <item>נסתרים</item>
         <item>נסתרות</item>
+        <item>זכר</item>
+        <item>נקבה</item>
         <item>אין</item>
     </string-array>
 
@@ -32,6 +34,7 @@
         <item>עתיד</item>
         <item>ציווי</item>
         <item>שם פועל</item>
+        <item>שם פעולה</item>
     </string-array>
 
     <string-array name="gizra">
